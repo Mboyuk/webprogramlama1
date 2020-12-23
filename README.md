@@ -4,7 +4,7 @@
 
 Tasarlayan:
 **Adı Soyadı** MEHMET BÖYÜK 
-**Öğreni No** 1030516450
+**Öğrenci No** 1030516450
 
  
 
