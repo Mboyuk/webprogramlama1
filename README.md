@@ -6,13 +6,6 @@ Tasarlayan:
 **Adı Soyadı** MEHMET BÖYÜK 
 **Öğreni No** 1030516450
 
-
-
-# Dosyalar
-
-1. ...
-2. ...
-3. ...
  
 
 # Kullanılan Araçlar
